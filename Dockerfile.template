@@ -1,0 +1,6 @@
+FROM <base image>
+MAINTAINER <author, email>
+ENV <var1=value var2=value ...>
+RUN <build command 1>
+RUN <build command 2>
+RUN <build command 3>
